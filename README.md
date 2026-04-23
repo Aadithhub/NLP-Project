@@ -171,8 +171,8 @@ Core packages:
 
 ## 👤 Author
 
-**Your Name**  
-[LinkedIn](YOUR_LINKEDIN) | [GitHub](YOUR_GITHUB)
+**Aadith P**  
+[LinkedIn](https://www.linkedin.com/in/aadith-prakash-0b9424242/) 
 
 ---
 
